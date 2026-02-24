@@ -70,6 +70,7 @@ case "`uname`" in
       fi
     fi
     ;;
+
 esac
 
 if [ -z "$JAVA_HOME" ] ; then
